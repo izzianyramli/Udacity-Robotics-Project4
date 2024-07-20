@@ -15,7 +15,7 @@
     </light>
     <model name='ground_plane'>
       <static>1</static>
-      <link name='link'>
+      <link name='link4'>
         <collision name='collision'>
           <geometry>
             <plane>
@@ -5345,7 +5345,7 @@
     </model>
     <model name='cafe_table_1'>
       <static>1</static>
-      <link name='link'>
+      <link name='link305'>
         <collision name='surface'>
           <pose frame=''>0 0 0.755 0 -0 0</pose>
           <geometry>
@@ -5424,7 +5424,7 @@
     </model>
     <model name='cafe_table_2'>
       <static>1</static>
-      <link name='link'>
+      <link name='link55'>
         <collision name='surface'>
           <pose frame=''>0 0 0.755 0 -0 0</pose>
           <geometry>
@@ -5503,7 +5503,7 @@
     </model>
     <model name='bookshelf'>
       <static>1</static>
-      <link name='link'>
+      <link name='link66'>
         <inertial>
           <mass>1</mass>
         </inertial>
@@ -7072,7 +7072,7 @@
     </model>
     <model name='bookshelf_0'>
       <static>1</static>
-      <link name='link'>
+      <link name='link77'>
         <inertial>
           <mass>1</mass>
         </inertial>
@@ -7329,7 +7329,7 @@
     </model>
     <model name='bookshelf_1'>
       <static>1</static>
-      <link name='link'>
+      <link name='link888'>
         <inertial>
           <mass>1</mass>
         </inertial>
@@ -7586,7 +7586,7 @@
     </model>
     <model name='bookshelf_2'>
       <static>1</static>
-      <link name='link'>
+      <link name='link99'>
         <inertial>
           <mass>1</mass>
         </inertial>
@@ -7843,7 +7843,7 @@
     </model>
     <model name='bookshelf_3'>
       <static>1</static>
-      <link name='link'>
+      <link name='link1010'>
         <inertial>
           <mass>1</mass>
         </inertial>
@@ -8100,7 +8100,7 @@
     </model>
     <model name='oak_tree'>
       <static>1</static>
-      <link name='link'>
+      <link name='link12'>
         <collision name='collision'>
           <geometry>
             <mesh>
@@ -8163,7 +8163,7 @@
     </model>
     <model name='table'>
       <static>1</static>
-      <link name='link'>
+      <link name='link001'>
         <collision name='surface'>
           <pose frame=''>0 0 1 0 -0 0</pose>
           <geometry>
@@ -8358,7 +8358,7 @@
     </model>
     <model name='table_clone'>
       <static>1</static>
-      <link name='link'>
+      <link name='link14'>
         <collision name='surface'>
           <pose frame=''>0 0 1 0 -0 0</pose>
           <geometry>
@@ -8553,7 +8553,7 @@
     </model>
     <model name='table_clone_0'>
       <static>1</static>
-      <link name='link'>
+      <link name='link15'>
         <collision name='surface'>
           <pose frame=''>0 0 1 0 -0 0</pose>
           <geometry>
@@ -8748,7 +8748,7 @@
     </model>
     <model name='oak_tree_0'>
       <static>1</static>
-      <link name='link'>
+      <link name='link17'>
         <collision name='collision'>
           <geometry>
             <mesh>
@@ -8810,7 +8810,7 @@
       <pose frame=''>-10.3743 -1.49972 0 0 -0 0</pose>
     </model>
     <model name='beer'>
-      <link name='link'>
+      <link name='link18'>
         <pose frame=''>0 0 0.115 0 -0 0</pose>
         <inertial>
           <mass>0.39</mass>
@@ -8874,7 +8874,7 @@
       <model name='beer'>
         <pose frame=''>-6.63486 -1.35781 0.774992 2.2e-05 1.5e-05 0.000681</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link200'>
           <pose frame=''>-6.63486 -1.35782 0.889992 2.2e-05 1.5e-05 0.000681</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 -9.8 0 -0 0</acceleration>
@@ -8884,7 +8884,7 @@
       <model name='bookshelf'>
         <pose frame=''>-0.07448 6.59557 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link201'>
           <pose frame=''>-0.07448 6.59557 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8894,7 +8894,7 @@
       <model name='bookshelf_0'>
         <pose frame=''>3.22894 3.91282 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link202'>
           <pose frame=''>3.22894 3.91282 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8904,7 +8904,7 @@
       <model name='bookshelf_1'>
         <pose frame=''>-3.47757 4.12481 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link203'>
           <pose frame=''>-3.47757 4.12481 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8914,7 +8914,7 @@
       <model name='bookshelf_2'>
         <pose frame=''>2.06306 -4.83875 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link205'>
           <pose frame=''>2.06306 -4.83875 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8924,7 +8924,7 @@
       <model name='bookshelf_3'>
         <pose frame=''>-2.12049 -4.77752 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link206'>
           <pose frame=''>-2.12049 -4.77752 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8934,7 +8934,7 @@
       <model name='cafe_table_1'>
         <pose frame=''>6.67869 3.07593 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link208'>
           <pose frame=''>6.67869 3.07593 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8944,7 +8944,7 @@
       <model name='cafe_table_2'>
         <pose frame=''>-6.48638 -1.36313 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link207'>
           <pose frame=''>-6.48638 -1.36313 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -8954,7 +8954,7 @@
       <model name='ground_plane'>
         <pose frame=''>0 0 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link209'>
           <pose frame=''>0 0 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -9326,7 +9326,7 @@
       <model name='oak_tree'>
         <pose frame=''>6.97779 -8.06742 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link301'>
           <pose frame=''>6.97779 -8.06742 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -9336,7 +9336,7 @@
       <model name='oak_tree_0'>
         <pose frame=''>-10.3743 -1.49972 0 0 -0 0</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link302'>
           <pose frame=''>-10.3743 -1.49972 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -9346,7 +9346,7 @@
       <model name='table'>
         <pose frame=''>-1.4933 4.52132 0 0 -0 1.5552</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link1'>
           <pose frame=''>-1.4933 4.52132 0 0 -0 1.5552</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -9356,7 +9356,7 @@
       <model name='table_clone'>
         <pose frame=''>1.42284 4.57977 0 0 -0 1.5552</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link2'>
           <pose frame=''>1.42284 4.57977 0 0 -0 1.5552</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -9366,7 +9366,7 @@
       <model name='table_clone_0'>
         <pose frame=''>-6.48548 2.29792 0 0 -0 1.5552</pose>
         <scale>1 1 1</scale>
-        <link name='link'>
+        <link name='link3'>
           <pose frame=''>-6.48548 2.29792 0 0 -0 1.5552</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
