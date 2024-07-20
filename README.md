@@ -24,4 +24,14 @@ $ source devel/setup.bash
 $ roslaunch my_robot world.launch
 ```
 
-4. WIP
+4. Launch teleop keyboard
+```
+$ source devel/setup.bash
+$ roslaunch teleop_twist_keyboard teleop_twist_keyboard.py
+```
+
+5. Launch AMCL
+```
+$ source devel/setup.bash
+$ roslaunch my_robot amcl.launch
+```
