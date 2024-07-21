@@ -1,6 +1,17 @@
 # Udacity-Robotics-Project4
 Udacity Robotics Software Engineer Nanodegree - Project 4: Map My World!
 
+## Pre-requisite
+1. RTAB-Map package is installed
+```
+sudo apt-get install ros-noetic-rtabmap
+```
+
+2. RTAB-Map ROS package is installed
+```
+sudo apt-get install ros-noetic-rtabmap-ros
+```
+
 ## Build and Launch
 
 1. Clone and initialize project with a catkin workspace
