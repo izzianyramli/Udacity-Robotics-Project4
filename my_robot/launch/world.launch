@@ -4,8 +4,8 @@
     <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find my_robot)/urdf/my_robot.xacro'"/>
 
     <!-- Robot pose -->
-    <arg name="x" default="1.0"/>
-    <arg name="y" default="1.5"/>
+    <arg name="x" default="-5.0"/>
+    <arg name="y" default="-2.5"/>
     <arg name="z" default="0"/>
     <arg name="roll" default="0"/>
     <arg name="pitch" default="0"/>
@@ -32,6 +32,6 @@
     </include>
 
     <!-- Launch RViz -->
-    <node name="rviz" pkg="rviz" type="rviz" respawn="false"/>
+<!--     <node name="rviz" pkg="rviz" type="rviz" respawn="false"/> -->
 
 </launch>
