@@ -20,7 +20,7 @@ $ roslaunch my_robot world.launch
 3. Launch teleop keyboard
 ```bash
 $ source devel/setup.bash
-$ roslaunch teleop_twist_keyboard teleop_twist_keyboard.py
+$ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 
 4. Launch SLAM
