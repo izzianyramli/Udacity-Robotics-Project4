@@ -14,13 +14,13 @@ $ catkin_make
 2. Launch robot world
 ```bash
 $ source devel/setup.bash
-$ roslaunch my_robot world.launch
+$ roslaunch my_robot newWorld.launch
 ```
 
 3. Launch teleop keyboard
 ```bash
 $ source devel/setup.bash
-$ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+$ roslaunch my_robot telop.launch
 ```
 
 4. Launch SLAM
